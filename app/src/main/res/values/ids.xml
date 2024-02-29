@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weather" type="id" />
+    <item name="weather_detail" type="id" />
+    <item name="navigation_drawer" type="id" />
+    <item name="cardView" type="id" />
+</resources>

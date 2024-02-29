@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Base.Theme.NavigationBottom" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+
+<!--        <item name="colorPrimary">@color/white</item>-->
+<!--        <item name="colorPrimaryVariant" type="color">@color/white</item>-->
+<!--        <item name="colorOnPrimary" type="color">@color/white</item>-->
+<!--        <item name="android:textColorPrimary" type="color">@color/teal</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.NavigationBottom" parent="Base.Theme.NavigationBottom" />-->
+
+<!--    <style name="ThemeOverlay.AppCompat.navTheme">-->
+<!--        <item name="colorPrimary">@color/white</item>-->
+
+<!--    </style>-->
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/dark_teal</item>
+        <item name="colorAccent">@color/teal</item>
+    <item name="android:textColorPrimary" type="color">@color/teal</item>
+
+        </style>
+
+</resources>
