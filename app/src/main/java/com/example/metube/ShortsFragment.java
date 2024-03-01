@@ -59,10 +59,10 @@ public class ShortsFragment extends Fragment {
 
         List<ShortsData> shortsData = new ArrayList<>();
 
-        shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel01, "An astronaut Holding A Space Helmet\n", "cottonbro studio", R.drawable.cottonbrostudio_profile));
+//        shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel01, "An astronaut Holding A Space Helmet\n", "cottonbro studio", R.drawable.cottonbrostudio_profile));
         shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel03, "A Dog with Red Sunglasses\n", "RDNE Stock project", R.drawable.rdnestockproject_profile));
         shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel05, "A Woman Talking On Her Cellphone\n", "Tima Miroshnichenko", R.drawable.timamiroshnichenko_profile));
-        shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel02, "A Beautiful Woman in Red\n", "cottonbro studio", R.drawable.cottonbrostudio_profile));
+//        shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel02, "A Beautiful Woman in Red\n", "cottonbro studio", R.drawable.cottonbrostudio_profile));
         shortsData.add(new ShortsData("android.resource://" + getContext().getPackageName() + "/" + R.raw.reel04, "Woman Holding a Polaroid Camera with an android robot\n", " Yaroslav Shuraev", R.drawable.yaroslavshuraev_profile));
 
         return shortsData;
