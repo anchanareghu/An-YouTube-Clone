@@ -1,4 +1,4 @@
-package com.example.metube.ui.theme
+package com.example.activity_lifecycle.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
