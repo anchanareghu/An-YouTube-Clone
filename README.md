@@ -8,4 +8,7 @@ This application is a simplified version of the YouTube app for Android, focusin
 
 ## Preview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
+https://github.com/anchanareghu/An-Youtube-Clone/assets/143755659/2378c06d-db98-469a-a1ab-8771e6af7835
+
+
+
